@@ -1,4 +1,4 @@
-## Mange Firewall Rules on Linux by Using Iptables
+## Manage Firewall Rules on Linux by Using Iptables
 
 Design, implement, and test a firewall for Linux that will implement the following rules:
 - Inbound/Outbound TCP packets on allowed ports
