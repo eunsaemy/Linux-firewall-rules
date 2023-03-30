@@ -1,6 +1,4 @@
-# COMP8006_ASG1
-
-## COMP 8006 - Assignment 1
+## Mange Firewall Rules on Linux by Using Iptables
 
 Design, implement, and test a firewall for Linux that will implement the following rules:
 - Inbound/Outbound TCP packets on allowed ports
